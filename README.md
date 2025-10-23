@@ -7,7 +7,7 @@
 
 ---
 
-## 🌌 Overview
+## Overview
 
 **Auralux** transforms your sound into light — blending audio frequencies into smooth motion.  
 No frameworks, Pure JS.
@@ -76,7 +76,4 @@ If you fork it, make it shine brighter. ✨
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Orvyan/Auralux/main/icon-512.png" width="120" height="120" alt="Auralux Icon"><br>
-  <i>“Where sound meets light.”</i>
-</p>
+
