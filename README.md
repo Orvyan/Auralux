@@ -1,18 +1,16 @@
 <h1 align="center">✨ A U R A L U X — Visualizer ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/Orvyan/Auralux/blob/main/favicon.png" width="100" height="100" alt="Auralux Logo"><br>
   <b>Immerse in sound. See your music come alive.</b><br>
-  A minimal, glassy, high-fidelity audio visualizer built for creators and dreamers.
+  A minimal, high-fidelity audio visualizer.
 </p>
 
 ---
 
 ## 🌌 Overview
 
-**Auralux** transforms your sound into light — blending audio frequencies into smooth motion,  
-with an Apple-grade interface and ambient fluidity.  
-No frameworks. No noise. Pure JS, pure design.
+**Auralux** transforms your sound into light — blending audio frequencies into smooth motion.  
+No frameworks, Pure JS.
 
 ---
 
@@ -39,8 +37,6 @@ No frameworks. No noise. Pure JS, pure design.
 ├─ style.css         # Glass & motion aesthetics
 ├─ main.js           # Visualization logic
 ├─ favicon.svg       # Logo / App icon
-├─ site.webmanifest  # Meta & theme info
-└─ assets/           # Optional media / samples
 ```
 
 ---
@@ -49,7 +45,6 @@ No frameworks. No noise. Pure JS, pure design.
 
 > *"Less interface, more atmosphere."*  
 >  
-> Inspired by Apple’s design language and aurora-like motion,  
 > Auralux focuses on emotion through simplicity — fluid animation,  
 > layered transparency, and subtle gradients of light.  
 
@@ -63,33 +58,14 @@ No frameworks. No noise. Pure JS, pure design.
 | `■ Stop` | Saves your visualization as `.webm` |
 | `Export Track` | Renders entire track from start to finish |
 
----
 
-## 🌐 Compatibility
 
-- Chrome, Edge, Safari — full feature support  
-- Firefox — works without recording (limited MediaRecorder)  
-- Mobile browsers — responsive layout, touch-optimized  
-
----
-
-## 💻 Requirements
-
-No dependencies.  
-Just open `index.html` — it runs natively in your browser.  
-
-> For microphone use, start a local server:
-> ```bash
-> python3 -m http.server
-> ```
 
 ---
 
 ## 🧠 Credits
 
-Created with precision by **[Orvyan](https://github.com/Orvyan)**  
-Visual concept inspired by **light**, **sound**, and **human rhythm**.  
-Every line of code written to *feel* alive.
+Created by **[Orvyan](https://github.com/Orvyan)**  
 
 ---
 
