@@ -1,4 +1,3 @@
-/* iOS 18-inspirierter „Liquid Glass“ Look — clean, sanfte Tiefen, subtile Glows */
 :root{
   --bg: #0b0f17;
   --fg: #e6e9ef;
@@ -117,7 +116,6 @@ body{
 }
 .seg-btn.active{background:rgba(10,132,255,.2);border-color:var(--accent)}
 
-/* Loader overlay */
 .loader-overlay{
   position:fixed;inset:0;display:grid;place-items:center;background:rgba(0,0,0,.35);
   backdrop-filter: blur(6px);z-index:999;transition:opacity .25s ease, visibility .25s ease;
@@ -135,7 +133,6 @@ body{
 @keyframes spin{to{transform:rotate(360deg)}}
 .loader-text{opacity:.85}
 
-/* Responsive */
 @media (max-width: 980px){
   .controls .row{grid-template-columns: repeat(2, 1fr)}
 }
@@ -144,7 +141,6 @@ body{
 }
 
 
-/* Prettier dropdown (iOS 18 glass-popover) */
 .native-hidden{ position:absolute; opacity:0; width:0; height:0; pointer-events:none }
 
 .dropdown{ position:relative; display:inline-block }
@@ -167,7 +163,6 @@ body{
 .dropdown-menu li:hover{ background: rgba(255,255,255,.08) }
 
 
-/* Custom Mode dropdown (popover with icons & keyboard focus) */
 .native-hidden{ position:absolute; opacity:0; width:0; height:0; pointer-events:none }
 .dropdown{ position:relative; display:inline-block }
 .dropdown-toggle{ display:flex; align-items:center; gap:8px; padding:10px 12px }
@@ -202,7 +197,7 @@ body{
   position: fixed;
   top: 14px;
   right: 14px;
-  z-index: 9999;           /* über Topbar/Canvas */
+  z-index: 9999;           
   display: inline-flex;
   align-items: center;
   justify-content: center;
