@@ -24,7 +24,6 @@ No frameworks, Pure JS.
 | 🌓 **Themes** | Light / Dark auto toggle with persistent preference |
 | 📸 **Capture Tools** | One-click Screenshot & Fullscreen |
 | 💾 **Recording** | Record full visual session as `.webm` in real time |
-| ⚡ **Performance** | 60 FPS rendering optimized for any display |
 | 🧠 **Privacy** | 100% client-side — no data leaves your device |
 
 ---
