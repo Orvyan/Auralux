@@ -1,7 +1,7 @@
 <h1 align="center">✨ A U R A L U X — Visualizer ✨</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Orvyan/Auralux/main/favicon.svg" width="100" height="100" alt="Auralux Logo"><br>
+  <img src="https://github.com/Orvyan/Auralux/blob/main/favicon.png" width="100" height="100" alt="Auralux Logo"><br>
   <b>Immerse in sound. See your music come alive.</b><br>
   A minimal, glassy, high-fidelity audio visualizer built for creators and dreamers.
 </p>
